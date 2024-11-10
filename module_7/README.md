@@ -9,8 +9,7 @@ This week is "Choose Your Adventure" week where you go deeper on a topic of your
 - [x] https://www.youtube.com/watch?v=lXQzD09BOH0&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=9
 - [x] https://www.youtube.com/watch?v=iTQW_nDp938&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=10
 - [x] https://www.youtube.com/watch?v=KRXSJb9ql1Y&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=11
-- 
-
+  
 # Assignment: 
 
 - [x] Email this edited README with your video lesson links and your completed assignment to data@tech-moms.org
