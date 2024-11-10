@@ -4,10 +4,14 @@ This week is "Choose Your Adventure" week where you go deeper on a topic of your
 
 # Video Lessons: 
 
-- [ ] Curate the videos you watched for your topic of choice and add here under "Video Lessons".
-- [ ] Ideas for videos could be Alex the Analyst videos on advanced excel topics, intermidiate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
+- [x] https://www.youtube.com/watch?v=dCNjUOc1cBY&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=7
+- [x] https://www.youtube.com/watch?v=ZnAydTqCtFU&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=8
+- [x] https://www.youtube.com/watch?v=lXQzD09BOH0&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=9
+- [x] https://www.youtube.com/watch?v=iTQW_nDp938&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=10
+- [x] https://www.youtube.com/watch?v=KRXSJb9ql1Y&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=11
+- 
 
 # Assignment: 
 
-- [ ] Email this edited README with your video lesson links and your completed assignment to data@tech-moms.org
-- [ ] Celebrate! Learning how to learning is an important part of learning! 
+- [x] Email this edited README with your video lesson links and your completed assignment to data@tech-moms.org
+- [x] Celebrate! Learning how to learning is an important part of learning! 
